@@ -2,11 +2,11 @@
 
 Utilizaremos o Docker Compose para subir a stack TICK-L, contendo os contêineres:
 
-•	Telegraf
-•	InfluxDB
-•	Chronograf para Loud ML (expõe a porta 8888 para acesso de administração)
-•	Kapacitor
-•	Loud ML Community Edition
+- Telegraf
+- InfluxDB
+- Chronograf para Loud ML (expõe a porta 8888 para acesso de administração)
+- Kapacitor
+- Loud ML Community Edition
 
 Fontes:
 
