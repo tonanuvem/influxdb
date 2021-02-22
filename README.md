@@ -14,7 +14,7 @@ Fontes:
 
 - https://github.com/influxdata/TICK-docker
 
-## Dockerfile for Loud ML
+## Compose baseado no Loud ML
 
 This directory contains a `Dockerfile` that can be used with Docker Compose
 to spawn a TICK-L stack, i.e. a stack of containers with:
