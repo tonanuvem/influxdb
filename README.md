@@ -14,6 +14,8 @@ Fontes:
 
 - https://github.com/influxdata/TICK-docker
 
+- https://github.com/cfbarbero/tick-grafana-docker
+
 ## Compose baseado no Loud ML
 
 This directory contains a `Dockerfile` that can be used with Docker Compose
